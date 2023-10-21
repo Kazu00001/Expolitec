@@ -17,6 +17,7 @@ if (mysqli_connect_error()) {
     // si se encuentra error en la conexión
 
     //hola
+    //chicharrone con sal limon y chile y tambien unos salchopulpos
 
     exit('Fallo en la conexión de MySQL:' . mysqli_connect_error());
 }
